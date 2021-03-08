@@ -4,7 +4,7 @@ The aim is to educate everyone how to live an eco-friendly life via a plateform 
 
 # What defines us ?
 
-- An easy to use plateform for searching `Activities` related to sustainability topics
+- An easy to use plateform for searching [Activities](https://github.com/wadi-green/Wadi.Green/wiki/Activities) related to sustainability topics
 - Helping people learn how they can adopt a more eco-friendly lifestyle by following easy to do steps
 - Encouraging people from around the world to teach others about awesome ways on how to do so
 
