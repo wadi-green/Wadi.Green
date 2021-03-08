@@ -22,7 +22,7 @@ The entire infrastructure is built and managed by [me](https://github.com/MSaifA
 ### How to help
 
 #### As a developer or designer ? 
-I beleive in transparency. The entire app code base can be found at ... and I have also created some (Projects)[...] to organize tasks. I try to keep things organized in a kanban board style, if you see something you can help out with in your free time, reach out ! 
+I beleive in transparency. The entire app code base can be found [here](...) and I have also created some [Projects](...) to organize tasks. I try to keep things organized in a kanban board style, if you see something you can help out with in your free time, reach out ! 
 
 #### Do you love to teach and write?
 
