@@ -27,3 +27,7 @@ I beleive in transparency. The entire app code base can be found [here](...) and
 #### Do you love to teach and write?
 
 All the `Activities` in the system is content created by a variety of people from all across the world (I count close to 21 contributors). The more `Activities` we create, the better it is for people. Help me find, proof-read and create new `Activities`. 
+
+# Contact & Support ?
+
+Reach out to me at support@wadi.green
