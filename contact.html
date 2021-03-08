@@ -135,15 +135,15 @@
                 </div>
                 <div class="col-six tab-full">
                     <h3>Contact</h3>
-                    <form>
+                    <form action="https://www.wadi.green/libra/rest/public/api/v1/feedback/take" method="GET">
                         <div>
                             <label for="sampleInput">Your email</label>
-                            <input class="full-width" type="email" placeholder="test@mailbox.com" id="sampleInput">
+                            <input class="full-width" type="email" name="email" placeholder="test@mailbox.com" id="sampleInput" required>
                         </div>
                         <div>
                             <label for="sampleRecipientInput">Reason for contacting</label>
                             <div class="ss-custom-select">
-                                <select class="full-width" id="sampleRecipientInput">
+                                <select class="full-width" id="sampleRecipientInput" name="category">
                                     <option value="Option 1">Content</option>
                                     <option value="Option 2">System Failure</option>
                                     <option value="Option 3">Technical support</option>
@@ -152,7 +152,7 @@
                         </div>
 
                         <label for="exampleMessage">Message</label>
-                        <textarea class="full-width" placeholder="Your message" id="exampleMessage"></textarea>
+                        <textarea class="full-width" placeholder="Your message" id="exampleMessage" name="content"></textarea>
 
                         <label class="add-bottom">
                             <input type="checkbox">
