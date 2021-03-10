@@ -3,9 +3,9 @@
 
 The aim is to educate everyone how to live an eco-friendly life via a plateform that is for the people, by the people.
 
-🌏 This is the public repository for the landing page at https://www.wadi.green
+🌏 This is the public repository for the landing page hosted at https://www.wadi.green
 
-📱 To go to public mobile, go to [skanking_tiger](https://github.com/wadi-green/skanking_tiger)
+📱 To go to public mobile, go to the repository called [Skanking Tiger](https://github.com/wadi-green/skanking_tiger)
 
 # What defines us ?
 
@@ -27,7 +27,7 @@ The entire infrastructure is built and managed by [me](https://github.com/MSaifA
 ### How to help
 
 #### As a developer or designer ? 
-I beleive in transparency. The entire app code base can be found [here](...) and I have also created some [Projects](https://github.com/wadi-green/Wadi.Green/projects) to organize tasks. I try to keep things organized in a kanban board style, if you see something you can help out with or if you have some new ideas, reach out.
+I beleive in transparency. The entire app code base can be found at [Skanking Tiger](https://github.com/wadi-green/skanking_tiger) and I have also created some [Projects](https://github.com/wadi-green/Wadi.Green/projects) to organize tasks. I try to keep things organized in a kanban board style, if you see something you can help out with or if you have some new ideas, reach out.
 
 #### Do you love to teach and write?
 
