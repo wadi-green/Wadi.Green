@@ -12,10 +12,10 @@ The aim is to educate everyone how to live an eco-friendly life via a plateform 
 - Helping people learn how they can adopt a more eco-friendly lifestyle 🟢 by following easy to do steps
 - Encouraging people from around the world to teach others about awesome ways on how to do so
 
-# What we are not 🟥
+# What we are not 
 
-- An e-commerce service to market merchandise
-- Just another social networking plateform
+- An e-commerce service to market merchandise 🟥 
+- Just another social networking plateform 🟥 
 
 # Want to contribute ?
 
