@@ -1,4 +1,5 @@
-# Wadi.green
+![Logo-2](https://user-images.githubusercontent.com/6280554/110627974-db5e2f80-81a2-11eb-8b31-4b482f1e5ac5.png)
+
 
 The aim is to educate everyone how to live an eco-friendly life via a plateform that is for the people, by the people.
 
