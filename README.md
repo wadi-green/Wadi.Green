@@ -5,7 +5,7 @@ The aim is to educate everyone how to live an eco-friendly life via a plateform 
 
 🌏 This is the public repository for the landing page hosted at https://www.wadi.green
 
-📱 To go to public mobile, go to the repository called [Skanking Tiger](https://github.com/wadi-green/skanking_tiger)
+📱 To view the mobile app, go to the repository [Skanking Tiger](https://github.com/wadi-green/skanking_tiger) 🐅
 
 # What defines us ?
 
