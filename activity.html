@@ -58,8 +58,6 @@
             <ul class="header-main-nav">
                 <li class="current"><a href="index.html#home" title="home">Home</a></li>
             </ul>
-            <a href="/" title="contact" class="button button-primary cta">Home</a>
-            <a href="/activity.html" title="contact" class="button button-primary cta">Propose an Activity</a>
 
         </nav>
 
@@ -79,12 +77,12 @@
             <div class="row contents">
                 <div class="home-content-left">
 
-                    <h3 data-aos="fade-up">Welcome to Wadi.Green Contributors page</h3>
+                    <h3 data-aos="fade-up">Welcome to Wadi.Green Activity page</h3>
 
                     <h1 data-aos="fade-up">
-                        Something <br>
-                        that you can help <br>
-                        with ?
+                        Have an idea <br>
+                        of an amazing <br>
+                        new Activity ?
                     </h1>
 
                 </div>
@@ -100,64 +98,39 @@
 
         <div class="row narrow add-bottom">
             <div class="row">
-                <div class="col-six tab-full">
-                    <h3>Ways to Contribute</h3>
-                    <h5><a href="mailto:support@wadi.green">Email us directly</a></h5>
-                    <h5>a) Content</h5>
-                    <dl>
-                        <dt><strong>Sourcing</strong></dt>
-                        <dd>Do you have some ideas that can be really nice activities for everyone? Share them</dd>
-                        <dt><strong>Proof reading</strong></dt>
-                        <dd>Content is coming mostly from public contributors and we need help with proof reading and
-                            convert them into an activity</dd>
-                        <dt><strong>Translations</strong></dt>
-                        <dd>Help us translate the app and make it more international</dd>
-                    </dl>
-                    <h5>b) App</h5>
-                    <dl>
-                        <dt><strong>Bugs</strong></dt>
-                        <dd>Something that is not working right ? Report a bug and it will be fixed at the earlies</dd>
-                        <dt><strong>Confusion</strong></dt>
-                        <dd>Something doesn't feel right while using the app? Always open to hear suggestions.</dd>
-                    </dl>
-                    <h5>c) Technical</h5>
-                    <dl>
-                        <dt><strong>Contributor</strong></dt>
-                        <dd>Love contributing to open-source repositories? Checkout our <a
-                                href="https://github.com/wadi-green/">Github</a> repo</dd>
-                    </dl>
-                    <dl>
-                        <dt><strong>Beta tester</strong></dt>
-                        <dd>Do you have some spare time to do testing for us ?</dd>
-                    </dl>
-                </div>
-                <div class="col-six tab-full">
-                    <h3>Contact</h3>
-                    <form action="https://www.wadi.green/libra/rest/public/api/v1/feedback/take" method="GET">
+                <div class="col-twelve tab-full">
+                    <h3>Tell us about this Activity</h3>
+                    <form action="https://www.wadi.green/libra/rest/public/api/v1/feedback/activity" method="GET">
                         <div>
-                            <label for="sampleInput">Your email</label>
-                            <input class="full-width" type="email" name="email" placeholder="test@mailbox.com"
-                                id="sampleInput" required>
+                            <label for="sampleInput">A nice title</label>
+                            <input class="full-width" type="text" name="title" placeholder="Something awesome" required>
                         </div>
                         <div>
-                            <label for="sampleRecipientInput">Reason for contacting</label>
+                            <label for="sampleInput">Describe this activity in a few sentences</label>
+                            <input class="full-width" type="text" name="description" placeholder="Something awesome"
+                                required>
+                        </div>
+                        <div>
+                            <label for="sampleRecipientInput">Which category this falls in</label>
                             <div class="ss-custom-select">
                                 <select class="full-width" id="sampleRecipientInput" name="category">
-                                    <option value="Content">Content</option>
-                                    <option value="System">System Failure</option>
-                                    <option value="Technical">Technical support</option>
+                                    <option value="Sustainability">Sustainability</option>
+                                    <option value="Energy">Energy</option>
+                                    <option value="Pollution">Pollution</option>
+                                    <option value="Zero">Zero-waste</option>
+                                    <option value="Health">Health</option>
+                                    <option value="Other">Other</option>
                                 </select>
                             </div>
                         </div>
 
-                        <label for="exampleMessage">Message</label>
-                        <textarea class="full-width" placeholder="Your message" id="exampleMessage" name="content"
+                        <label for="exampleMessage">Some steps on how you would do this activity</label>
+                        <textarea class="full-width" placeholder="Step1, Step2, Step3" name="steps"
                             required></textarea>
-
-                        <label class="add-bottom">
-                            <input type="checkbox">
-                            <span class="label-text">Send a copy to yourself</span>
-                        </label>
+                        <div>
+                            <label for="sampleInput">Email (for contact)</label>
+                            <input class="full-width" type="email" name="email" placeholder="someone@somewhere.com" required>
+                        </div>
                         <input class="button-primary" type="submit" value="Submit">
 
                     </form>
