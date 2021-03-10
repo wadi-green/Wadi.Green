@@ -2,13 +2,17 @@
 
 The aim is to educate everyone how to live an eco-friendly life via a plateform that is for the people, by the people.
 
+🌏 This is the public repository for the landing page at https://www.wadi.green
+
+📱 To go to public mobile, go to [skanking_tiger](https://github.com/wadi-green/skanking_tiger)
+
 # What defines us ?
 
-- An easy to use plateform for searching [Activities](https://github.com/wadi-green/Wadi.Green/wiki/Activities) related to sustainability topics
-- Helping people learn how they can adopt a more eco-friendly lifestyle by following easy to do steps
+- An easy to use plateform for searching 🔍 [Activities](https://github.com/wadi-green/Wadi.Green/wiki/Activities) related to sustainability topics 🌲
+- Helping people learn how they can adopt a more eco-friendly lifestyle 🟢 by following easy to do steps
 - Encouraging people from around the world to teach others about awesome ways on how to do so
 
-# What we are not
+# What we are not 🟥
 
 - An e-commerce service to market merchandise
 - Just another social networking plateform
@@ -28,6 +32,6 @@ I beleive in transparency. The entire app code base can be found [here](...) and
 
 All the `Activities` in the system is content created by a variety of people from all across the world, 21 to be precise, from 5 different countries. The more `Activities` we create, the better it is for people. Help me in finding new ones, proof-reading and managing them. 
 
-# Contact & Support ?
+# Contact & Support ? ✉️
 
 Reach out to me at support@wadi.green
