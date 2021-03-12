@@ -15,8 +15,8 @@ The aim is to educate everyone how to live an eco-friendly life via a plateform 
 
 # What we are not 
 
-- An e-commerce service to market merchandise 🟥 
-- Just another social networking plateform 🟥 
+- An e-commerce service to market merchandise ❗
+- Just another social networking plateform ❗
 
 # Want to contribute ?
 
