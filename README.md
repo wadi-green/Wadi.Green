@@ -1,5 +1,10 @@
 ![Logo-2](https://user-images.githubusercontent.com/6280554/110627974-db5e2f80-81a2-11eb-8b31-4b482f1e5ac5.png)
 
+![GitHub Repo stars](https://img.shields.io/github/stars/wadi-green/skanking_tiger?style=plastic)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/wadi-green/skanking_tiger)
+![Maintaner](https://img.shields.io/badge/maintainer-Saif-blue)
+[![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://wadi.green/)
+
 
 The aim is to educate everyone how to live an eco-friendly life via a plateform that is for the people, by the people.
 
