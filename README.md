@@ -6,7 +6,7 @@
 [![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://wadi.green/)
 
 
-The aim is to educate everyone how to live an eco-friendly life via a plateform that is for the people, by the people.
+The aim is to educate everyone how to live an eco-friendly life via a platform that is for the people, by the people.
 
 🌏 This is the public repository for the landing page hosted at https://www.wadi.green
 
@@ -14,20 +14,20 @@ The aim is to educate everyone how to live an eco-friendly life via a plateform 
 
 # What defines us ?
 
-- An easy to use plateform for searching 🔍 [Activities](https://github.com/wadi-green/Wadi.Green/wiki/Activities) related to sustainability topics 🌲
+- An easy to use platform for searching 🔍 [Activities](https://github.com/wadi-green/Wadi.Green/wiki/Activities) related to sustainability topics 🌲
 - Helping people learn how they can adopt a more eco-friendly lifestyle 🟢 by following easy to do steps
 - Encouraging people from around the world to teach others about awesome ways on how to do so
 
 # What we are not 
 
 - An e-commerce service to market merchandise ❗
-- Just another social networking plateform ❗
+- Just another social networking platform ❗
 
 # Want to contribute ?
 
 ### Current state
 
-The entire infrastructure is built and managed by [me](https://github.com/MSaifAsif) in my free time. I can use all the help I can get in maintaining this plateform.
+The entire infrastructure is built and managed by [me](https://github.com/MSaifAsif) in my free time. I can use all the help I can get in maintaining this platform.
 
 ### How to help
 
